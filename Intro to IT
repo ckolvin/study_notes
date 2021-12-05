@@ -1,136 +1,73 @@
-C182 INTRO TO INFORMATION TECHNOLOGY NOTES
+**C182 INTRO TO INFORMATION TECHNOLOGY NOTES**
 
- 
+_Core Components of IT: Hardware, Software, and People._
 
-Core Components of IT: Hardware, Software, and People.
+-   For an IT system to function efficiently and effectively, **_three key components_** are involved: **_hardware, software, and people_**.
+-   Information technology (IT) is a system comprising of independent parts that work together to **_advance an organization's goals and vision_** by increasing growth, profits, and productivity.
+-   Information technology (IT) is the technology used to create, maintain, and make information accessible using systems for information **_storage, retrieval, and exchange._**
+-   A **_system_** is a collection of elements that **_interact to achieve a common goal._**
+-   Information technology is a critical function for an organization, as it supports diverse types of business functions, from production to human resource management.
+-   Until organized and analyzed, data is just raw numbers and words waiting to be converted into meaningful information
 
-For an IT system to function efficiently and effectively, three key components are involved: hardware, software, and people.
-Information technology (IT) is a system comprising of independent parts that work together to advance an organization's goals and vision by increasing growth, profits, and productivity.
-Information technology (IT) is the technology used to create, maintain, and make information accessible using systems for information storage, retrieval, and exchange.
-A system is a collection of elements that interact to achieve a common goal.
-Information technology is a critical function for an organization, as it supports diverse types of business functions, from production to human resource management.
-Until organized and analyzed, data is just raw numbers and words waiting to be converted into meaningful information
- 
-
-Unit 1 & 2
-
- 
+**Unit 1 & 2**
 
 Information technology (IT) is a system comprising independent parts that work together to advance an organization's goals and vision by increasing growth, profits, and productivity.
 
- 
-
 For an IT system to function efficiently and effectively, three key components are involved: hardware, software, and people.
-
- 
 
 IT refers to systems that store, retrieve, and send information.
 
- 
-
 Information technology (IT) is the technology used to create, maintain, and make information accessible using systems for information storage, retrieval, and exchange.
-
- 
 
 Information technology is a critical function for an organization, as it supports diverse types of business functions, from production to human resource management.
 
- 
-
 IT professionals must provide various levels of support to enable employees to complete their tasks.
-
- 
 
 IT provides support to users by first analyzing the needs and issues, then identifying and implementing solutions so users can stay productive with minimal technical interruption.
 
- 
-
 Computing is generally understood as any activity that uses a computer to manage, process, or share information. It includes tasks as varied as designing and creating hardware and software, establishing networks, managing information, building chatbots to exhibit human-like behavior, and sequencing DNA.
-
- 
 
 Five of the most recognized computing disciplines include computer engineering, computer science, software engineering, information systems, and information technology.
 
- 
-
 To begin analyzing business processes, a business must first collect data from multiple platforms and portals. Data in businesses comes from various activities, including sales and marketing, finance, customer service, and relationship management.
-
- 
 
 A computer system, or a computer, is a system that consists of hardware and software components that work together to store, retrieve, and process data. We use computers to type documents, send emails, play games, browse the web, and create spreadsheets, presentations, and videos. Computer systems store data, direct the traffic on the internet, collect meteorological data, or perform analyses of survey results.
 
- 
-
- 
-
 The input-process-output (IPO) and input-process-output-storage (IPOS) models are frequently used to explain the function of a system. They specify that input, processing, output, and storage are the four main functions of a computer system. The system divides the work into three parts: (1) a requirement from the environment or input, (2) a computation based on the requirement or process, and (3) a provision for the environment or output. In addition, it uses storage for the input and output elements, as well as for keeping the results of the calculations during the processing.
-
- 
-
- 
 
 The most important element of a computer system is its users, sometimes called liveware.
 
- 
-
 Networks are systems of hardware and software components that connect two or more devices for the purpose of sharing data and information.
-
- 
 
 There are two common types of networks: local area networks (LANs) and wide area networks (WANs). LANs span a single home, school, or small office building and provide a connection for devices that are within the same network. WANs reach across cities, states, or even across the world. The internet is the world’s largest public wide area network.
 
- 
-
 physical topology, which is the actual layout of how systems are placed in the network.
-
- 
 
 logical topology. This form of a topology indicates how the data actually flow and is extremely important when considering things like load balancing normal traffic, network backups, and replication of data.
 
- 
-
 Networks may implement various types of topologies. The most common network topology layouts are bus, star, ring, and mesh.
 
- 
+**Unit 3**
 
- 
+**History of the Computer Timeline**
 
- 
+-   First Generation: Vacuum Tubes (1946–1959)
 
- 
+-   Second Generation: Transistors (1959–1965)
 
- 
+-   Third Generation: Integrated Circuits (1965–1971)
 
-Unit 3
+-   Fourth Generation: Microprocessors (1971–Present)
 
- 
+-   Fifth Generation: Artificial Intelligence (Future)
 
-History of the Computer Timeline
+**Computer Hardware**
 
- 
-
-First Generation: Vacuum Tubes (1946–1959)
- 
-
-Second Generation: Transistors (1959–1965)
- 
-
-Third Generation: Integrated Circuits (1965–1971)
- 
-
-Fourth Generation: Microprocessors (1971–Present)
- 
-
-Fifth Generation: Artificial Intelligence (Future)
- 
-
-Computer Hardware
-
-CPU
-RAM
-Hard drive
-GPU
-Expansion Card
- 
+-   CPU
+-   RAM
+-   Hard drive
+-   GPU
+-   Expansion Card
 
 IPOS = Input Process Output Storage = What Computer Systems are Used For (Also Called Von Neuman)
 
@@ -140,18 +77,18 @@ RAM = Quick Access Temporary Storage
 
 Generally, computer hardware contains three major components: the central processing unit, storage, and peripheral devices.
 
-The central processing unit (CPU) is the electronic circuit responsible for executing computer program instructions. The CPU consists of three parts: 
+The **central processing unit (CPU)** is the electronic circuit responsible for executing computer program instructions. The CPU consists of three parts:
 
-the arithmetic logic unit (ALU), which contains circuitry that performs operations on data (such as addition and subtraction); 
-the control unit, which contains the circuitry coordinating the machine’s activities; and 
-the processor register, which contains data storage cells called registers.
+1.  the arithmetic logic unit (ALU), which contains circuitry that performs operations on data (such as addition and subtraction);
+2.  the control unit, which contains the circuitry coordinating the machine’s activities; and
+3.  the processor register, which contains data storage cells called registers.
+
 Registers are high-speed storage areas in the CPU. All data must be stored in a register before it can be processed. They serve as temporary holding places for data being manipulated by the CPU. Registers hold the inputs to the ALU and store the results. To perform an operation on data stored in the main memory, the control unit
 
-transfers the data from the main memory into the registers,
-informs the ALU which registers hold the data,
-activates the ALU, and
-tells the ALU which register should receive the result.
- 
+-   **transfers** the data from the main memory into the registers,
+-   **informs** the ALU which registers hold the data,
+-   **activates** the ALU, and
+-   **tells** the ALU which register should receive the result.
 
 Memory address register (MAR)
 
@@ -173,16 +110,12 @@ Current instruction register (CIR)
 
 Holds the current instruction during processing
 
- 
+The memory unit consists of **_random-access memory_** (RAM), sometimes referred to as primary or main memory. Unlike a hard drive (permanent memory, secondary memory), this memory is fast and directly accessible by the CPU. Loading data from secondary to primary memory allows the CPU to operate faster. However, RAM is ephemeral, meaning data stored in RAM is lost when the computer is powered off.
 
-The memory unit consists of random-access memory (RAM), sometimes referred to as primary or main memory. Unlike a hard drive (permanent memory, secondary memory), this memory is fast and directly accessible by the CPU. Loading data from secondary to primary memory allows the CPU to operate faster. However, RAM is ephemeral, meaning data stored in RAM is lost when the computer is powered off.
-
-Buses or bus lines are the wires that serve as electrical roadways, transmitting information between the CPU and other components. The size of the bus is related to the amount of data that can be transmitted at once. Instructions are sent through the bus lines to the CPU and include how to process the data and which component to use. These instructions are split and sent through three different types of buses: address buses, data buses, and control buses.
+**Buses** or **bus lines** are the wires that serve as electrical roadways, transmitting information between the CPU and other components. The size of the bus is related to the amount of data that can be transmitted at once. Instructions are sent through the bus lines to the CPU and include how to process the data and which component to use. These instructions are split and sent through three different types of buses: address buses, data buses, and control buses.
 
 Expansion slots are sockets on the motherboard where expansion cards can be installed. Common types of expansion cards include graphics, sound, and network cards.
 
 Input devices translate data into a form that the computer can understand, and output devices translate information into a form that humans can understand.
 
-Communication devices allow a computer to send and receive data to and from other computers. Modems send information over a phone line or coaxial cable, whereas a network card sends information over dedicated network cables. Satellite, wireless, and Bluetooth technologies enable data to be transmitted without the need for physical wires. 
-
- 
+**Communication devices** allow a computer to send and receive data to and from other computers. Modems send information over a phone line or coaxial cable, whereas a network card sends information over dedicated network cables. Satellite, wireless, and Bluetooth technologies enable data to be transmitted without the need for physical wires.
