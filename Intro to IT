@@ -1,0 +1,158 @@
+<p><strong>C182 INTRO TO INFORMATION TECHNOLOGY NOTES</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><em><u>Core Components of IT: Hardware, Software, and People.</u></em></p>
+<ul>
+<li>For an IT system to function efficiently and effectively, <strong><em>three key components </em></strong>are involved: <strong><em>hardware, software, and people</em></strong>.</li>
+<li>Information technology (IT) is a system comprising of independent parts that work together to <strong><em>advance an organization's goals and vision</em></strong> by increasing growth, profits, and productivity.</li>
+<li>Information technology (IT) is the technology used to create, maintain, and make information accessible using systems for information <strong><em>storage, retrieval, and exchange. </em></strong></li>
+<li>A <strong><em>system</em></strong> is a collection of elements that <strong><em>interact to achieve a common goal. </em></strong></li>
+<li>Information technology is a critical function for an organization, as it supports diverse types of business functions, from production to human resource management.</li>
+<li>Until organized and analyzed, data is just raw numbers and words waiting to be converted into meaningful information</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong><u>Unit 1 &amp; 2</u></strong></p>
+<p><strong><u>&nbsp;</u></strong></p>
+<p>Information technology (IT) is a system comprising independent parts that work together to advance an organization's goals and vision by increasing growth, profits, and productivity.</p>
+<p>&nbsp;</p>
+<p>For an IT system to function efficiently and effectively, three key components are involved: hardware, software, and people.</p>
+<p>&nbsp;</p>
+<p>IT refers to systems that store, retrieve, and send information.</p>
+<p>&nbsp;</p>
+<p>Information technology (IT) is the technology used to create, maintain, and make information accessible using systems for information storage, retrieval, and exchange.</p>
+<p>&nbsp;</p>
+<p>Information technology is a critical function for an organization, as it supports diverse types of business functions, from production to human resource management.</p>
+<p>&nbsp;</p>
+<p>IT professionals must provide various levels of support to enable employees to complete their tasks.</p>
+<p>&nbsp;</p>
+<p>IT provides support to users by first analyzing the needs and issues, then identifying and implementing solutions so users can stay productive with minimal technical interruption.</p>
+<p>&nbsp;</p>
+<p>Computing is generally understood as any activity that uses a computer to manage, process, or share information. It includes tasks as varied as designing and creating hardware and software, establishing networks, managing information, building chatbots to exhibit human-like behavior, and sequencing DNA.</p>
+<p>&nbsp;</p>
+<p>Five of the most recognized computing disciplines include computer engineering, computer science, software engineering, information systems, and information technology.</p>
+<p>&nbsp;</p>
+<p>To begin analyzing business processes, a business must first collect data from multiple platforms and portals. Data in businesses comes from various activities, including sales and marketing, finance, customer service, and relationship management.</p>
+<p>&nbsp;</p>
+<p>A computer system, or a computer, is a system that consists of hardware and software components that work together to store, retrieve, and process data. We use computers to type documents, send emails, play games, browse the web, and create spreadsheets, presentations, and videos. Computer systems store data, direct the traffic on the internet, collect meteorological data, or perform analyses of survey results.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The input-process-output (IPO) and input-process-output-storage (IPOS) models are frequently used to explain the function of a system. They specify that input, processing, output, and storage are the four main functions of a computer system. The system divides the work into three parts: (1) a requirement from the environment or input, (2) a computation based on the requirement or process, and (3) a provision for the environment or output. In addition, it uses storage for the input and output elements, as well as for keeping the results of the calculations during the processing.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The most important element of a computer system is its users, sometimes called liveware.</p>
+<p>&nbsp;</p>
+<p>Networks are systems of hardware and software components that connect two or more devices for the purpose of sharing data and information.</p>
+<p>&nbsp;</p>
+<p>There are two common types of networks: local area networks (LANs) and wide area networks (WANs). LANs span a single home, school, or small office building and provide a connection for devices that are within the same network. WANs reach across cities, states, or even across the world. The internet is the world&rsquo;s largest public wide area network.</p>
+<p>&nbsp;</p>
+<p>physical topology, which is the actual layout of how systems are placed in the network.</p>
+<p>&nbsp;</p>
+<p>logical topology. This form of a topology indicates how the data actually flow and is extremely important when considering things like load balancing normal traffic, network backups, and replication of data.</p>
+<p>&nbsp;</p>
+<p>Networks may implement various types of topologies. The most common network topology layouts are bus, star, ring, and mesh.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>Unit 3</u></strong></p>
+<p><strong><u>&nbsp;</u></strong></p>
+<p><strong>History of the Computer Timeline</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>First Generation: Vacuum Tubes (1946&ndash;1959)</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Second Generation: Transistors (1959&ndash;1965)</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Third Generation: Integrated Circuits (1965&ndash;1971)</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Fourth Generation: Microprocessors (1971&ndash;Present)</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Fifth Generation: Artificial Intelligence (Future)</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Computer Hardware</strong></p>
+<ul>
+<li>CPU</li>
+<li>RAM</li>
+<li>Hard drive</li>
+<li>GPU</li>
+<li>Expansion Card</li>
+</ul>
+<p>&nbsp;</p>
+<p>IPOS = Input Process Output Storage = What Computer Systems are Used For (Also Called Von Neuman)</p>
+<p>CPU = Data Processing</p>
+<p>RAM = Quick Access Temporary Storage</p>
+<p>Generally, computer hardware contains three major components: the central processing unit, storage, and peripheral devices.</p>
+<p>The&nbsp;<strong>central processing unit (CPU)</strong>&nbsp;is the electronic circuit responsible for executing computer program instructions. The CPU consists of three parts:&nbsp;</p>
+<ol>
+<li>the arithmetic logic unit (ALU), which contains circuitry that performs operations on data (such as addition and subtraction);&nbsp;</li>
+<li>the control unit, which contains the circuitry coordinating the machine&rsquo;s activities; and&nbsp;</li>
+<li>the processor register, which contains data storage cells called registers.</li>
+</ol>
+<p>Registers are high-speed storage areas in the CPU. All data must be stored in a register before it can be processed. They serve as temporary holding places for data being manipulated by the CPU. Registers hold the inputs to the ALU and store the results. To perform an operation on data stored in the main memory, the control unit</p>
+<ul>
+<li><strong>transfers&nbsp;</strong>the data from the main memory into the registers,</li>
+<li><strong>informs&nbsp;</strong>the ALU which registers hold the data,</li>
+<li><strong>activates&nbsp;</strong>the ALU, and</li>
+<li><strong>tells&nbsp;</strong>the ALU which register should receive the result.</li>
+</ul>
+<p>&nbsp;</p>
+<table width="1100">
+<tbody>
+<tr>
+<td width="287">
+<p>Memory address register (MAR)</p>
+</td>
+<td width="813">
+<p>Holds the memory location of data that needs to be accessed</p>
+</td>
+</tr>
+<tr>
+<td width="287">
+<p>Memory data register (MDR)</p>
+</td>
+<td width="813">
+<p>Holds data that is being transferred to or from memory</p>
+</td>
+</tr>
+<tr>
+<td width="287">
+<p>Accumulator (AC)</p>
+</td>
+<td width="813">
+<p>Holds the ALU results</p>
+</td>
+</tr>
+<tr>
+<td width="287">
+<p>Program counter (PC)</p>
+</td>
+<td width="813">
+<p>Holds the address of the next program instruction to be executed</p>
+</td>
+</tr>
+<tr>
+<td width="287">
+<p>Current instruction register (CIR)</p>
+</td>
+<td width="813">
+<p>Holds the current instruction during processing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The memory unit consists of&nbsp;<strong><em>random-access memory</em></strong>&nbsp;(RAM), sometimes referred to as primary or main memory. Unlike a hard drive (permanent memory, secondary memory), this memory is fast and directly accessible by the CPU. Loading data from secondary to primary memory allows the CPU to operate faster. However, RAM is ephemeral, meaning data stored in RAM is lost when the computer is powered off.</p>
+<p><strong>Buses&nbsp;</strong>or&nbsp;<strong>bus lines</strong>&nbsp;are the wires that serve as electrical roadways, transmitting information between the CPU and other components. The size of the bus is related to the amount of data that can be transmitted at once. Instructions are sent through the bus lines to the CPU and include how to process the data and which component to use. These instructions are split and sent through three different types of buses: address buses, data buses, and control buses.</p>
+<p>Expansion slots are sockets on the motherboard where expansion cards can be installed. Common types of expansion cards include graphics, sound, and network cards.</p>
+<p>Input devices translate data into a form that the computer can understand, and output devices translate information into a form that humans can understand.</p>
+<p><strong>Communication devices</strong>&nbsp;allow a computer to send and receive data to and from other computers. Modems send information over a phone line or coaxial cable, whereas a network card sends information over dedicated network cables. Satellite, wireless, and Bluetooth technologies enable data to be transmitted without the need for physical wires.&nbsp;</p>
+<p>&nbsp;</p>
